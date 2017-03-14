@@ -1,6 +1,6 @@
 /* 
 Script para publicacion automatica de informacion climatica en Twitter mediante IFTTT 
-Demo para Auth0 
+
 Ene 2017 - Victor Martin 
 El resultado se puede visualizar en http://www.twitter.com/coder_vic
 */
